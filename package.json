@@ -1,0 +1,12 @@
+{
+    "name": "dual-claude-pokemon",
+    "version": "1.0.0",
+    "description": "Dual Claude system for playing Pokemon",
+    "main": "dual-claude-pokemon.js",
+    "scripts": {
+      "start": "node dual-claude-pokemon.js"
+    },
+    "dependencies": {
+      "ws": "^8.13.0"
+    }
+  }
